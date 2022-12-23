@@ -1,5 +1,5 @@
 {
-  "name": "shawn",
+  "name": "rahul",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -16,7 +16,7 @@
       "prettier --write ."
     ]
   },
-  "author": "priyanshu gupta <priyanshu.202104072@tulas.edu.in>",
+  "author": "rahul gupta <rahulrahulgupta56@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "cookie-parser": "^1.4.6",
