@@ -1,20 +1,20 @@
 {
   "development": {
-    "username": "shawn",
-    "password": "avinash",
+    "username": "rahul",
+    "password": "gupta",
     "database": "wd-todo-dev",
     "host": "127.0.0.1",
-    "dialect": "shawn"
+    "dialect": "rahul"
   },
   "test": {
-    "username": "shawn",
-    "password": "avinash",
+    "username": "rahul",
+    "password": "gupta",
     "database": "wd-todo-test",
     "host": "127.0.0.1",
-    "dialect": "shawn"
+    "dialect": "rahul"
   },
   "production": {
     "use_env_variable": "DATABASE_URL",
-    "dialect": "shawn" 
+    "dialect": "rahul" 
    }
 }
